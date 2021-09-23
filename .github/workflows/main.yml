@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Generate Snake
 
 # Controls when the workflow will run
 on:
@@ -32,7 +32,7 @@ jobs:
         uses: Platane/snk@v0.0.18
         with:
           # github user name
-          github_user_name: shijoshaji
+          github_user_name: ${{ github.repository_owner }}
           # path of the generated gif
           gif_out_path: dist/github-contribution-grid-snake.gif
 
