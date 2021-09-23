@@ -28,4 +28,5 @@ You can click the Preview link to take a look at your changes.
   
 </p>
 
+### Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/shijoshaji/shijoshaji/blob/output/github-contribution-grid-snake.gif)
