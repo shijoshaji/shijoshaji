@@ -19,8 +19,11 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shijoshaji&&langs_count=5&&theme=dark">
 </p>
+<p align="center">
+  <a href="https://app.daily.dev/shijoshaji"><img src="https://api.daily.dev/devcards/cd7da25e5d644548ae71ab8bfa1bdc7f.png?r=p8k" width="400" alt="Shijo Shaji's Dev Card"/></a>
+  </p>
 
-<a href="https://app.daily.dev/shijoshaji"><img src="https://api.daily.dev/devcards/cd7da25e5d644548ae71ab8bfa1bdc7f.png?r=p8k" width="400" alt="Shijo Shaji's Dev Card"/></a>
+
 
 <h2 align="center">Connect me on</h2>
 
@@ -31,3 +34,6 @@ You can click the Preview link to take a look at your changes.
 
 ### Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/shijoshaji/shijoshaji/blob/output/github-contribution-grid-snake.gif)
+
+
+
