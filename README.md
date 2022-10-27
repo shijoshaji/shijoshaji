@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shijoshaji&&langs_count=5&&theme=dark">
 </p>
 <p align="center">
-  <a href="https://app.daily.dev/shijoshaji"><img src="https://api.daily.dev/devcards/cd7da25e5d644548ae71ab8bfa1bdc7f.png?r=p8k" width="400" alt="Shijo Shaji's Dev Card"/></a>
+  <a href="https://app.daily.dev/shijoshaji"><img src="https://github.com/shijoshaji/shijoshaji/blob/main/devcard.svg" width="400" alt="Shijo Shaji's Dev Card"/></a>
   </p>
 
 
