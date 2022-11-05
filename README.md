@@ -1,10 +1,10 @@
-<p align="right"><img  src="./assets/intro.png" height="auto" width="20%" /></p>
+<img align="right"  src="./assets/intro.png" height="auto" width="30%" />
 
 - 👋 Hi, I’m @shijoshaji
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... [Connect With Me](##connect-with-me)
 
 <br>
 
@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ![snake gif](https://github.com/shijoshaji/shijoshaji/blob/output/github-contribution-grid-snake.gif) -->
 
 </details>
-<!-- !SECTION -->
+<!-- !SECTION Github Stats-->
 
 ## <!-- SECTION DEV card -->
 
@@ -54,10 +54,14 @@ You can click the Preview link to take a look at your changes.
 
 ## <!-- SECTION - Connect with me -->
 ---
-<h2 align="center">Connect with me</h2>
+## Connect with me
 <div align="center">
-  <a href="https://www.linkedin.com/in/shijoshaji/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp; or &nbsp; 
-  <a href="https://bio.link/shijoshaji">Check my Bio Link for more ways to connect</a>
-  
-  
+  <a href="https://www.linkedin.com/in/shijoshaji/"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp; or &nbsp; 
+  <a href="https://bio.link/shijoshaji">Other ways to connect</a>😉
 </div>
+
+<!-- !SECTION Connect with me -->
+---
+## Support Me 💰
+
+<a href="https://www.buymeacoffee.com/shijoshaji"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" /></a>
