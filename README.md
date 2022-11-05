@@ -24,11 +24,11 @@ $ whoami
 # Currently a MEAN stack developer, with 1+ YoE
 # Earlier Python developer with 4+ YoE
 # My varied work experience has increased my ability to be 
-    > flexible
+    > Flexible
     > Adapt to changing environments
 # I have a track record of 
-    > improving quality
-    > increasing efficiency
+    > Improving quality
+    > Increasing efficiency
 #Recognized by both peers and senior management for 
     > Attention to detail
     > Passion for achieving excellent results.
@@ -39,7 +39,8 @@ $ whoami
     > Demonstrating tact, diplomacy, sound judgement, initiative and discretion.
 
 $ pwd
-# Seeking a challenging role with an Organization to leverage my 'Technical & Professional' skills, while working for the Organization serving them in all the ways I could.
+# Seeking a challenging role with an Organization to leverage my 
+  > 'Technical & Professional' skills, while working for the Organization by serving them in all the ways I could.
 ```
 
 </details>
